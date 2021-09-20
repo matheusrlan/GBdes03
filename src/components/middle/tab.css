@@ -1,9 +1,10 @@
 .tabs {
     display: flex;
     background: #e1e1e1;
-    max-width:28%;
+    max-width: 480px;
     border-radius: 10px;
     margin: auto;
+    justify-content: space-between;
 }
 
 .tab {
@@ -16,6 +17,7 @@
     transition: .3s ease-in-out;
     padding: 10px;
     border: none;
+    
 }
 
 .tab:hover {
