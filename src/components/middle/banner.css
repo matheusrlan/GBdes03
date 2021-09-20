@@ -1,0 +1,15 @@
+.fundo {
+    display: flex;
+    width: 100%;
+}
+
+.div-fundo{
+    width: 100%;
+}
+
+.background{
+    width: 1080px;
+    height: 280px;
+    margin-left: 20%;
+    border-radius: 20px;
+}
