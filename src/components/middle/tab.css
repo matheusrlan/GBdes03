@@ -1,9 +1,9 @@
 .tabs {
     display: flex;
     background: #e1e1e1;
-    max-width:27.7%;
+    max-width:28%;
     border-radius: 10px;
-    margin-left: 39%;
+    margin: auto;
 }
 
 .tab {
