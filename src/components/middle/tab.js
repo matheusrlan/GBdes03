@@ -5,8 +5,8 @@ import './tab.css'
 
 const Tab = () => {
     const [ button, setButton ] = useState(0)
-    const [ press1, setPress1 ] = useState('tab-active')
-    const [ press0, setPress0 ] = useState('tab')
+    const [ press0, setPress0 ] = useState('tab-active')
+    const [ press1, setPress1 ] = useState('tab')
     const [ press2, setPress2 ] = useState('tab') 
     const buttonHandler0 = () => {
         setButton(0)
